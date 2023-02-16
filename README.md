@@ -1,0 +1,1 @@
+# K00248239-IDM3-VAR-AR-Snap
