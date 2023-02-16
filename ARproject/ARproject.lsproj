@@ -1,0 +1,1665 @@
+{
+    "lens_id": "",
+    "document_id": "4xTQnyuY4P1xVFoTGHDt",
+    "original_document_id": "4xTQnyuY4P1xVFoTGHDt",
+    "version": "29",
+    "lastChanged": "1676571917565",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Asset",
+                        "BusinessWithComputing"
+                    ],
+                    [
+                        "Asset",
+                        "ComputerNetworks"
+                    ],
+                    [
+                        "Asset",
+                        "GamesDesign"
+                    ],
+                    [
+                        "Asset",
+                        "ImmersiveDigitalMedia"
+                    ],
+                    [
+                        "Asset",
+                        "MobileWebComputing"
+                    ],
+                    [
+                        "Asset",
+                        "Moylish-Park"
+                    ],
+                    [
+                        "Asset",
+                        "SoftwareDevelopment"
+                    ],
+                    [
+                        "Asset",
+                        "TUS_Logo_Emblem_RGB 2"
+                    ],
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Random Image Material"
+                    ],
+                    [
+                        "RandomImageScript"
+                    ],
+                    [
+                        "Render Target 2"
+                    ],
+                    [
+                        "TUS_Logo_Primary ENG_Reverse Duotone_RGB"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "White"
+                    ],
+                    [
+                        "Unlit"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1676486955455839:10831",
+                    "1676487786567699:90972"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1676571161213946:202519"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1676487149957602:27790",
+                    "name": "Files\/File8.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1676487986086263:120968",
+                    "name": "Files\/File16.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1676488398271726:12801",
+                    "name": "Files\/File20.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1676489023195541:60603",
+                    "name": "Files\/File21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1676489023319567:60617",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1676489023487644:60657",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1676489023670239:61619",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1676489023808683:61633",
+                    "name": "Files\/File33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1676489024089017:62647",
+                    "name": "Files\/File37.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1676489816258580:9731",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1676569612711858:51615",
+                    "name": "Files\/File48.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1676569901825789:92450",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1676571161213946:202519",
+                    "name": "Files\/File70",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1676571161654370:202576",
+                    "name": "Files\/File72.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1676571287117853:213114",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1676571399533285:246396",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1676570966222567:168192",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1676571124961669:194194",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1676486878801217:3791",
+                "4": "1676486878801744:3792",
+                "5": "1676486878802064:3793",
+                "6": "1676486955455839:10831",
+                "7": "1676487039718451:19140",
+                "8": "1676487150834099:27799",
+                "9": "1676487185265318:31271",
+                "10": "1676487196273958:34687",
+                "11": "1676487786567325:90971",
+                "12": "1676488001735243:124707",
+                "13": "1676570966157758:168006",
+                "14": "1676570966172026:168063",
+                "15": "1676570966222287:168191",
+                "16": "1676571124906224:193957"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.js"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.pvr"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.js"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.pvr"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.pvr"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.pvr"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.pvr"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.pvr"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.pvr"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.pvr"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.pvr"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.pvr"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.pvr"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.pvr"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.jpg"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.jpg"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.jpg"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.pvr"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.pvr"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.lsmat"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "971",
+                        "v": "TUS_Logo_Primary ENG_Reverse Duotone_RGB.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "RandomImageScript.js"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Asset"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Asset\/GamesDesign.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Asset\/ImmersiveDigitalMedia.png"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Asset\/MobileWebComputing.png"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Asset\/SoftwareDevelopment.png"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Asset\/BusinessWithComputing.png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Asset\/ComputerNetworks.png"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Random Image Material.lsmat"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Asset\/Moylish-Park.jpg"
+                    },
+                    {
+                        "k": "995",
+                        "v": "Asset\/TUS_Logo_Emblem_RGB 2.png"
+                    },
+                    {
+                        "k": "996",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "997",
+                        "v": "Textures\/White.png"
+                    },
+                    {
+                        "k": "998",
+                        "v": "Unlit.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "6c7932e0df736f27b30f10f3f9e17b49"
+                    },
+                    {
+                        "k": "969",
+                        "v": "711b8a6c38d87d5cc05d01d312f0f73c"
+                    },
+                    {
+                        "k": "970",
+                        "v": "d8edf3b8ee7c0acd90ff1efb93ab4aee"
+                    },
+                    {
+                        "k": "971",
+                        "v": "066aba21e1e1192783e92f5bbc692b08"
+                    },
+                    {
+                        "k": "972",
+                        "v": "b99fe92b79d5903c1c6e12a6b2a23163"
+                    },
+                    {
+                        "k": "974",
+                        "v": "6eef985f47783c45be8240551a7fbd07"
+                    },
+                    {
+                        "k": "975",
+                        "v": "a390ee84ebbcd1cc2febcfdcfa4747b1"
+                    },
+                    {
+                        "k": "976",
+                        "v": "8be26a00b61e75ceebeb6b064d9e53ed"
+                    },
+                    {
+                        "k": "977",
+                        "v": "13c45d3add63f319019ce523acc83c7c"
+                    },
+                    {
+                        "k": "978",
+                        "v": "37ce274c46d9921213d6ceb8f66a8c6b"
+                    },
+                    {
+                        "k": "979",
+                        "v": "f4f593339b1dda2be1ec1425ef0dce1d"
+                    },
+                    {
+                        "k": "980",
+                        "v": "edca7b4897ff1f24c6e764e6c5263244"
+                    },
+                    {
+                        "k": "981",
+                        "v": "96d4135410b676c791b6880e2bb98e8d"
+                    },
+                    {
+                        "k": "982",
+                        "v": "dad03246a9f105cc761cd4815c68c75a"
+                    },
+                    {
+                        "k": "984",
+                        "v": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                    },
+                    {
+                        "k": "985",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "987",
+                        "v": "96d4135410b676c791b6880e2bb98e8d"
+                    },
+                    {
+                        "k": "989",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "991",
+                        "v": "b6ff2fab6b1818a52b82271b7008df0f"
+                    },
+                    {
+                        "k": "992",
+                        "v": "d8acf89ec5e63959517762a0381461c3"
+                    },
+                    {
+                        "k": "993",
+                        "v": "97a2c7c2b5edaae01c0b1ce7a5a79f19"
+                    },
+                    {
+                        "k": "994",
+                        "v": "9dddff7fd5f7e1be01c11b483fa173d8"
+                    },
+                    {
+                        "k": "995",
+                        "v": "11a085a8c01266002f47d7ded5feb062"
+                    },
+                    {
+                        "k": "997",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "998",
+                        "v": "43d8b7ddeb2c4901eeff6bd2fa35bbd0"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2023-02-16T18:12:42",
+                        "name": "Public",
+                        "hash": "1990ebad79b4c6d3195d9f89c44e8ef2",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-02-16T18:00:26",
+                                "name": "Asset",
+                                "hash": "221b23cf83d54d63d5ce7802b6aac86b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:19:32",
+                                        "name": "BusinessWithComputing.png",
+                                        "hash": "37ce274c46d9921213d6ceb8f66a8c6b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:20:45",
+                                        "name": "ComputerNetworks.png",
+                                        "hash": "f4f593339b1dda2be1ec1425ef0dce1d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:23:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:21:29",
+                                        "name": "GamesDesign.png",
+                                        "hash": "6eef985f47783c45be8240551a7fbd07",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:21:57",
+                                        "name": "ImmersiveDigitalMedia.png",
+                                        "hash": "a390ee84ebbcd1cc2febcfdcfa4747b1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:22:30",
+                                        "name": "MobileWebComputing.png",
+                                        "hash": "8be26a00b61e75ceebeb6b064d9e53ed",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T18:38:26",
+                                        "name": "Moylish-Park.jpg",
+                                        "hash": "dad03246a9f105cc761cd4815c68c75a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-15T19:22:49",
+                                        "name": "SoftwareDevelopment.png",
+                                        "hash": "13c45d3add63f319019ce523acc83c7c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-16T17:51:39",
+                                        "name": "TUS_Logo_Emblem_RGB 2.png",
+                                        "hash": "11a085a8c01266002f47d7ded5feb062",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-02-15T18:52:29",
+                                "name": "Behavior.js",
+                                "hash": "6c7932e0df736f27b30f10f3f9e17b49",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T00:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T00:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-02-15T19:36:57",
+                                "name": "Random Image Material.lsmat",
+                                "hash": "edca7b4897ff1f24c6e764e6c5263244",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-02-15T19:13:22",
+                                "name": "RandomImageScript.js",
+                                "hash": "b99fe92b79d5903c1c6e12a6b2a23163",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-02-16T18:12:41",
+                                "name": "Textures",
+                                "hash": "6507c3cb5745a68eb0fa565cf851c447",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-16T18:12:41",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-16T18:12:41",
+                                        "name": "White.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-02-15T16:42:00",
+                                "name": "TUS_Logo_Primary ENG_Reverse Duotone_RGB.png",
+                                "hash": "066aba21e1e1192783e92f5bbc692b08",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-02-16T18:12:42",
+                                "name": "Unlit.lsmat",
+                                "hash": "43d8b7ddeb2c4901eeff6bd2fa35bbd0",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676487149957602:27790",
+                        "fileId": "8",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "C:\/Users\/calum\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIeOZXxrkYNOm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "TUS_Logo_Primary ENG_Reverse Duotone_RGB",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676487986086263:120968",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "971",
+                        "source": "C:\/Users\/calum\/Downloads\/TUS-Primary-Logos\/TUS Primary Logos\/01. RGB Logos - For online use\/02.PNG\/02.Reverse Duotone\/TUS_Logo_Primary ENG_Reverse Duotone_RGB.png",
+                        "additional": {
+                            "originHash": "066aba21e1e1192783e92f5bbc692b08"
+                        }
+                    },
+                    {
+                        "name": "RandomImageScript",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676488398271726:12801",
+                        "fileId": "20",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "C:\/Users\/calum\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioMHihsdtVdlwY\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Asset",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "GamesDesign",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489023195541:60603",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "974",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/GamesDesign.png",
+                                "additional": {
+                                    "originHash": "6eef985f47783c45be8240551a7fbd07"
+                                }
+                            },
+                            {
+                                "name": "ImmersiveDigitalMedia",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489023319567:60617",
+                                "fileId": "24",
+                                "originalId": "25",
+                                "publicId": "975",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/ImmersiveDigitalMedia.png",
+                                "additional": {
+                                    "originHash": "a390ee84ebbcd1cc2febcfdcfa4747b1"
+                                }
+                            },
+                            {
+                                "name": "MobileWebComputing",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489023487644:60657",
+                                "fileId": "27",
+                                "originalId": "28",
+                                "publicId": "976",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/MobileWebComputing.png",
+                                "additional": {
+                                    "originHash": "8be26a00b61e75ceebeb6b064d9e53ed"
+                                }
+                            },
+                            {
+                                "name": "SoftwareDevelopment",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489023670239:61619",
+                                "fileId": "30",
+                                "originalId": "31",
+                                "publicId": "977",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/SoftwareDevelopment.png",
+                                "additional": {
+                                    "originHash": "13c45d3add63f319019ce523acc83c7c"
+                                }
+                            },
+                            {
+                                "name": "BusinessWithComputing",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489023808683:61633",
+                                "fileId": "33",
+                                "originalId": "34",
+                                "publicId": "978",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/BusinessWithComputing.png",
+                                "additional": {
+                                    "originHash": "37ce274c46d9921213d6ceb8f66a8c6b"
+                                }
+                            },
+                            {
+                                "name": "ComputerNetworks",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676489024089017:62647",
+                                "fileId": "37",
+                                "originalId": "38",
+                                "publicId": "979",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/ComputerNetworks.png",
+                                "additional": {
+                                    "originHash": "f4f593339b1dda2be1ec1425ef0dce1d"
+                                }
+                            },
+                            {
+                                "name": "Moylish-Park",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676569612711858:51615",
+                                "fileId": "48",
+                                "originalId": "49",
+                                "publicId": "982",
+                                "source": "C:\/Users\/calum\/OneDrive - Technological University of the Shannon Midwest\/IDM3\/vr ar\/AR\/SegmentationTutorial\/Public\/Moylish-Park.jpg",
+                                "additional": {
+                                    "originHash": "dad03246a9f105cc761cd4815c68c75a"
+                                }
+                            },
+                            {
+                                "name": "TUS_Logo_Emblem_RGB 2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676569901825789:92450",
+                                "fileId": "66",
+                                "originalId": "67",
+                                "publicId": "995",
+                                "source": "C:\/Users\/calum\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouBXFqdrqrvRz\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "e9f806d63f237ead50bf7cef0c260c97",
+                                    "subtype": "9"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Random Image Material",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676489816258580:9731",
+                        "fileId": "45",
+                        "originalId": "46",
+                        "publicId": "980",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "996",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "White",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1676571161654370:202576",
+                                "fileId": "72",
+                                "originalId": "73",
+                                "publicId": "997",
+                                "source": "C:\/Users\/calum\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouBXFqdrqrvRz\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlit",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "37",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676571161213946:202519",
+                        "fileId": "70",
+                        "originalId": "71",
+                        "publicId": "998",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Portrait Background Segmentation",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676571287117853:213114",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Render Target 2",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "40",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1676571399533285:246396",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1676487986086263:120968",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30002",
+                            "compressedSize": "23487",
+                            "originalRAM": "6758400",
+                            "compressedRAM": "847872",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "18",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "530724999cde98c726b9038c02368a59",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "19"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489023195541:60603",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5436",
+                            "compressedSize": "2182",
+                            "originalRAM": "54880",
+                            "compressedRAM": "6944",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "23",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6eef985f47783c45be8240551a7fbd07",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "36"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489023319567:60617",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4226",
+                            "compressedSize": "1873",
+                            "originalRAM": "32160",
+                            "compressedRAM": "4288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "26",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a390ee84ebbcd1cc2febcfdcfa4747b1",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "40"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489023487644:60657",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4897",
+                            "compressedSize": "1908",
+                            "originalRAM": "50820",
+                            "compressedRAM": "6496",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "29",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8be26a00b61e75ceebeb6b064d9e53ed",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "41"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489023670239:61619",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4661",
+                            "compressedSize": "1833",
+                            "originalRAM": "34188",
+                            "compressedRAM": "4680",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "32",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "13c45d3add63f319019ce523acc83c7c",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "42"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489023808683:61633",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4633",
+                            "compressedSize": "1893",
+                            "originalRAM": "48548",
+                            "compressedRAM": "6496",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "35",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "37ce274c46d9921213d6ceb8f66a8c6b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "43"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676489024089017:62647",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6343",
+                            "compressedSize": "2748",
+                            "originalRAM": "42688",
+                            "compressedRAM": "5568",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "39",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f4f593339b1dda2be1ec1425ef0dce1d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "44"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1676569612711858:51615",
+                    "v": {
+                        "infos": {
+                            "originalSize": "33918",
+                            "compressedSize": "33918",
+                            "originalRAM": "666000",
+                            "compressedRAM": "666000",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "50",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1676569901825789:92450",
+                    "v": {
+                        "infos": {
+                            "originalSize": "15096",
+                            "compressedSize": "15090",
+                            "originalRAM": "13131776",
+                            "compressedRAM": "1642496",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "68",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "11a085a8c01266002f47d7ded5feb062",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "69"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.36.1"
+}
